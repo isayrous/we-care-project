@@ -1,4 +1,4 @@
-<h1 align="center">Sites responsivos</h1>
+<h1 align="center">Site responsivo</h1>
 <br>
 <h2 align="center">Projeto prático para treinar os ensinamentos dados no <a href="https://rodolfomori.com.br/devclub">Dev Club</a>.</h2>
 <br>
@@ -7,6 +7,6 @@
 <br>
 <h3 align="center">Abaixo segue foto do projeto:</h3>
 <br>
-<img src="https://github.com/isayrous/easy-shopping/blob/master/img/Projeto.2.png?raw=true" width="960px"/>
+<img src="https://github.com/isayrous/we-care-project/blob/master/img/Projeto.3.png?raw=true" width="960px"/>
 <br>
 <br>
